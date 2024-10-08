@@ -40,7 +40,7 @@
     <section id="crea-tu-proyecto">
         <h2>Imagina y crea</h2>
         <p id="mensaje-crea">Aquí puedes poner tu proyecto</p>
-        <button id="subir-proyecto" onclick="window.location.href='subitem.html'">Subir proyecto</button>
+        <button id="subir-proyecto" onclick="window.location.href='subitem.php'">Subir proyecto</button>
         <div id="subir-proyecto-page" style="display: none;">
             <h1>+ Proyectos</h1>
             <form id="subir-proyecto-form">
